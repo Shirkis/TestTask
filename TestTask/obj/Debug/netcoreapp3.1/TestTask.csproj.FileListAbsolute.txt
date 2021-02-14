@@ -1,0 +1,15 @@
+D:\dev\TestTask\TestTask\TestTask\bin\Debug\netcoreapp3.1\TestTask.exe
+D:\dev\TestTask\TestTask\TestTask\bin\Debug\netcoreapp3.1\TestTask.deps.json
+D:\dev\TestTask\TestTask\TestTask\bin\Debug\netcoreapp3.1\TestTask.runtimeconfig.json
+D:\dev\TestTask\TestTask\TestTask\bin\Debug\netcoreapp3.1\TestTask.runtimeconfig.dev.json
+D:\dev\TestTask\TestTask\TestTask\bin\Debug\netcoreapp3.1\TestTask.dll
+D:\dev\TestTask\TestTask\TestTask\bin\Debug\netcoreapp3.1\TestTask.pdb
+D:\dev\TestTask\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.csprojAssemblyReference.cache
+D:\dev\TestTask\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.Form1.resources
+D:\dev\TestTask\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.csproj.GenerateResource.cache
+D:\dev\TestTask\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.AssemblyInfoInputs.cache
+D:\dev\TestTask\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.AssemblyInfo.cs
+D:\dev\TestTask\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.csproj.CoreCompileInputs.cache
+D:\dev\TestTask\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.dll
+D:\dev\TestTask\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.pdb
+D:\dev\TestTask\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.genruntimeconfig.cache
